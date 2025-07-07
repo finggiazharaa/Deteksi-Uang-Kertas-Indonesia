@@ -1,16 +1,20 @@
 💵 Indonesian Banknote Denomination Detection System Using YOLOv8
+
 A smart web-based image recognition system designed to detect and classify the denominations on Indonesian banknotes using the YOLOv8 object detection model. This system helps in real-time identification of currency denominations from user-submitted images, supporting automation in financial verification and cash handling processes.
 
 🧱 Background
+
 Identifying currency denominations accurately is crucial for various applications such as banking automation, cashier systems, counterfeit detection, and inclusive technologies for the visually impaired. Manual recognition can be prone to error, especially in poor lighting or when notes are worn. By integrating a deep learning-based model, this project aims to automate the detection and classification of Indonesian banknotes with high precision.
 
 🎯 Objectives
+
 ✅ Build and train a YOLOv8 model to detect and classify banknote denominations
 ✅ Create a user-friendly web interface for uploading and analyzing images
 ✅ Provide instant and accurate denomination feedback to users
 ✅ Support cash handling automation and financial technology innovations
 
 📂 Dataset Information
+
 🧪 Indonesian Banknote Detection Dataset
 Source: Roboflow Universe – Indonesian Banknotes
 Classes: Various denominations of Indonesian Rupiah (e.g., 1K, 2K, 5K, 10K, 20K, 50K, 100K)
